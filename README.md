@@ -2,9 +2,6 @@
 
 CS781 Capstone Project — Indian Institute of Technology Kanpur
 
-**Ahmad Akhtar · Roll 240074**  
-**Email:** ahmada24@iitk.ac.in  
-**Codabench:** `a_240074`
 
 This project explores seven Indian legal NLP tasks using compact language models trained from scratch. Four foundation architectures are adapted for entity recognition, rhetorical roles, judgment prediction, statute identification, summarization, and prior-case retrieval.
 
